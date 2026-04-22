@@ -1,0 +1,143 @@
+<recipes>
+
+    <recipe>
+        <title>Spaghetti Carbonara</title>
+        <cuisine>Italian</cuisine>
+        <cuisine>European</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Sushi</title>
+        <cuisine>Asian</cuisine>
+        <cuisine>Japanese</cuisine>
+        <difficulty>Advanced</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Paella</title>
+        <cuisine>Spanish</cuisine>
+        <cuisine>Mediterranean</cuisine>
+        <difficulty>Intermediate</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Pizza Margherita</title>
+        <cuisine>Italian</cuisine>
+        <cuisine>FastFood</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Ramen</title>
+        <cuisine>Asian</cuisine>
+        <cuisine>Japanese</cuisine>
+        <difficulty>Intermediate</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Burger</title>
+        <cuisine>American</cuisine>
+        <cuisine>FastFood</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Tacos</title>
+        <cuisine>Mexican</cuisine>
+        <cuisine>StreetFood</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Lasagna</title>
+        <cuisine>Italian</cuisine>
+        <cuisine>European</cuisine>
+        <difficulty>Intermediate</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Pad Thai</title>
+        <cuisine>Asian</cuisine>
+        <cuisine>Thai</cuisine>
+        <difficulty>Advanced</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Chicken Curry</title>
+        <cuisine>Indian</cuisine>
+        <cuisine>Asian</cuisine>
+        <difficulty>Intermediate</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Fish and Chips</title>
+        <cuisine>British</cuisine>
+        <cuisine>FastFood</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Greek Salad</title>
+        <cuisine>Mediterranean</cuisine>
+        <cuisine>Healthy</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Steak</title>
+        <cuisine>American</cuisine>
+        <cuisine>Grill</cuisine>
+        <difficulty>Intermediate</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Falafel</title>
+        <cuisine>MiddleEastern</cuisine>
+        <cuisine>Vegetarian</cuisine>
+        <difficulty>Intermediate</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Pancakes</title>
+        <cuisine>American</cuisine>
+        <cuisine>Breakfast</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Omelette</title>
+        <cuisine>French</cuisine>
+        <cuisine>Breakfast</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Risotto</title>
+        <cuisine>Italian</cuisine>
+        <cuisine>European</cuisine>
+        <difficulty>Advanced</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Shawarma</title>
+        <cuisine>MiddleEastern</cuisine>
+        <cuisine>StreetFood</cuisine>
+        <difficulty>Intermediate</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Dumplings</title>
+        <cuisine>Chinese</cuisine>
+        <cuisine>Asian</cuisine>
+        <difficulty>Advanced</difficulty>
+    </recipe>
+
+    <recipe>
+        <title>Caesar Salad</title>
+        <cuisine>Italian</cuisine>
+        <cuisine>Healthy</cuisine>
+        <difficulty>Beginner</difficulty>
+    </recipe>
+
+</recipes>
