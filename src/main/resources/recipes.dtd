@@ -1,0 +1,7 @@
+<!ELEMENT recipes (recipe+)>
+
+<!ELEMENT recipe (title, cuisine+, difficulty)>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT cuisine (#PCDATA)>
+<!ELEMENT difficulty (#PCDATA)>
