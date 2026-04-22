@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recipe App</title>
+</head>
+<body>
+
+<h1>Recipe Application</h1>
+
+<!-- 🔍 FILTER BY CUISINE -->
+<h2>Filter by Cuisine</h2>
+<select id="cuisine">
+    <option>Italian</option>
+    <option>Asian</option>
+    <option>American</option>
+</select>
+<button onclick="filterCuisine()">Filter</button>
+
+<!-- 🔎 SEARCH RECIPE -->
+<h2>Search Recipe</h2>
+<input type="text" id="recipeName" placeholder="Enter recipe name">
+<button onclick="searchRecipe()">Search</button>
+
+<!-- ➕ ADD RECIPE -->
+<h2>Add Recipe</h2>
+<input id="title" placeholder="Title">
+<input id="cuisine1" placeholder="Cuisine 1">
+<input id="cuisine2" placeholder="Cuisine 2">
+<input id="difficulty" placeholder="Difficulty">
+<button onclick="addRecipe()">Add</button>
+
+<!-- 👤 USER -->
+<h2>User</h2>
+<input id="skill" placeholder="Skill">
+<input id="prefCuisine" placeholder="Preferred cuisine">
+<button onclick="recommend()">Recommend</button>
+
+<h2>Result</h2>
+<p id="result"></p>
+
+<script>
+function filterCuisine() {
+    document.getElementById("result").innerText = "Filtered recipes by cuisine";
+}
+
+function searchRecipe() {
+    document.getElementById("result").innerText = "Showing recipe details";
+}
+
+function addRecipe() {
+    document.getElementById("result").innerText = "Recipe added (simulation)";
+}
+
+function recommend() {
+    document.getElementById("result").innerText = "Recommended recipes shown in console";
+}
+</script>
+
+</body>
+</html>
